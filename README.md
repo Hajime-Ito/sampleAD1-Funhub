@@ -1,4 +1,7 @@
 # sampleAD1-Funhub
 FunhubのトップページのフッターサンプルADです。
 
-[こちらからご覧ください](https://funhub-univ.firebaseapp.com/)
+[Funhub](https://funhub-univ.firebaseapp.com/)
+
+実行例：
+![jikkourei](/output.gif)
